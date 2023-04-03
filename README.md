@@ -1,2 +1,1 @@
-# wildrydes
-for CSA Lab
+# wildrydes-site
